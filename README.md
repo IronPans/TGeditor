@@ -1,12 +1,15 @@
 # TGeditor
-这是一个简单的富文本编辑器
+这是一个简单的富文本编辑器  
+
 纯JavaScript，不需担心和其他插件冲突。
 
 ## 用法
 ### 引用：
-`<link rel="stylesheet" href="fontAwesome/css/font-awesome.min.css">  
+```
+<link rel="stylesheet" href="fontAwesome/css/font-awesome.min.css">  
 <link rel="stylesheet" href="richEditor.css">  
-<script src="richEditor.min.js"></script>`
+<script src="richEditor.min.js"></script>
+```
 
 ### 布局
 在页面放一个编辑器div（目前只支持这种方式）：  
