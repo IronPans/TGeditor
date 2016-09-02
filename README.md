@@ -4,8 +4,10 @@
 
 ## 用法
 ### 引用：
-`<link rel="stylesheet" href="fontAwesome/css/font-awesome.min.css">      
+`<link rel="stylesheet" href="fontAwesome/css/font-awesome.min.css">  
+
 <link rel="stylesheet" href="richEditor.css">  
+
 <script src="richEditor.min.js"></script>`
 
 ### 布局
