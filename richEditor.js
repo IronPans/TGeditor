@@ -1,3 +1,7 @@
+/*
+ * version 1.0
+ * Date 2016/09/02 11:30:00
+ * */
 (function(factory) {
 	'use strict';
 	if(typeof define === 'function' && define.amd) {
