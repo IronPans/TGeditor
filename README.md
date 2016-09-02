@@ -17,8 +17,8 @@
 
 ### 调用
 `var editor = new RichEditor("#editor", {  
-		width:900,  
-		height:400,  
+			width:900,  
+			height:400,  
 		toolBg:"#eee",  
 		buttons: {  
 				heading:{  
