@@ -4,15 +4,15 @@
 
 ## 用法
 ### 引用：
-`<link rel="stylesheet" href="fontAwesome/css/font-awesome.min.css">  `
-`<link rel="stylesheet" href="richEditor.css">`  
-`<script src="richEditor.min.js"></script>`
+`<link rel="stylesheet" href="fontAwesome/css/font-awesome.min.css">  
+<link rel="stylesheet" href="richEditor.css">  
+<script src="richEditor.min.js"></script>`
 
 ### 布局
-在页面放一个编辑器div（目前只支持这种方式）：
-`<div id="editor">     
-  <p>这是一个富文本编辑器，简单高效！</p>     
-  <p>你可以通过getHTML()获取编辑器中的所有内容，也可以通过getText()获取纯文本内容</p>  
+在页面放一个编辑器div（目前只支持这种方式）：  
+`<div id="editor">       
+  <p>这是一个富文本编辑器，简单高效！</p>       
+  <p>你可以通过getHTML()获取编辑器中的所有内容，也可以通过getText()获取纯文本内容</p>    
 </div>` 
 
 ### 调用
