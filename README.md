@@ -17,11 +17,11 @@
 
 ### 调用
 `var editor = new RichEditor("#editor", {  `
-			width:900, 
-			height:400,  
-		toolBg:"#eee",  
-		buttons: {  
-				heading:{  
+			width:900,   
+			height:400,    
+			toolBg:"#eee",  
+			buttons: {  
+					heading:{  
 					title:"标题",  
 					icon:"\uf1dc"  
 				},  
