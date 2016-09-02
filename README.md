@@ -16,7 +16,7 @@
 </div>` 
 
 ### 调用
-`var editor = new RichEditor("#editor", {   
+`var editor = new RichEditor("#editor", {`   
 	 width:900,   
 	 height:400,   
   	toolBg:"#eee",   
